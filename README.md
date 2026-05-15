@@ -18,7 +18,7 @@ A atividade foi desenvolvida como parte das práticas acadêmicas da **FATEC Jac
 - [Express v5](https://expressjs.com/) — Framework web para Node.js
 - [dotenv](https://github.com/motdotla/dotenv) — Gerenciamento de variáveis de ambiente
 - HTML5 + CSS3 — Estrutura e estilização das páginas estáticas
-- [Google Fonts – Roboto](https://fonts.google.com/specimen/Roboto) — Tipografia da aplicação
+- JavaScript — Linguagem base do projeto
 
 ---
 
