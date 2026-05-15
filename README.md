@@ -60,6 +60,18 @@ app/
 
 ---
 
+## 🔧 Variáveis de Ambiente
+
+Crie um arquivo `.env` na raiz do projeto com a seguinte variável:
+
+```env
+PORT=3001  # ou qualquer outra porta de sua preferência
+```
+
+> ⚠️ O arquivo `.env` já está no `.gitignore` e **não deve ser versionado**.
+
+---
+
 ## ⚙️ Como Executar
 
 ### Pré-requisitos
@@ -81,7 +93,7 @@ npm install
 
 # 4. Configure as variáveis de ambiente
 # Crie um arquivo .env na raiz com o seguinte conteúdo:
-PORT = 3001
+PORT=3001
 
 # 5a. Inicie o servidor (produção)
 npm start
@@ -91,18 +103,6 @@ npm run dev
 ```
 
 Acesse no navegador: [http://localhost:3001](http://localhost:3001)
-
----
-
-## 🔧 Variáveis de Ambiente
-
-Crie um arquivo `.env` na raiz do projeto com a seguinte variável:
-
-```env
-PORT = 3001  # ou qualquer outra porta de sua preferência
-```
-
-> ⚠️ O arquivo `.env` já está no `.gitignore` e **não deve ser versionado**.
 
 ---
 
