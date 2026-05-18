@@ -83,7 +83,7 @@ PORT=3001  # ou qualquer outra porta de sua preferência
 
 ```bash
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/gm-paiva/App-Web-com-Express.git
 
 # 2. Acesse a pasta do projeto
 cd app
